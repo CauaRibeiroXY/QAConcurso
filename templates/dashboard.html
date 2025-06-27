@@ -1,0 +1,152 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div id="welcome-section" class="text-center mb-5">
+    <h1 class="display-4 welcome-title">Bem-vindo, {{ username }}!</h1>
+    <p class="lead welcome-subtitle">Escolha um eixo temático para começar seu quiz.</p>
+    
+    <!-- Botão de Resultados -->
+    <div class="mt-4">
+        <a href="{{ url_for('resultados') }}" class="btn btn-outline-info btn-lg me-3">
+            <i class="fas fa-chart-line me-2"></i>Ver Meus Resultados
+        </a>
+        <a href="{{ url_for('logout') }}" class="btn btn-outline-secondary">
+            <i class="fas fa-sign-out-alt me-2"></i>Sair
+        </a>
+    </div>
+</div>
+
+<div id="eixo-selecao" class="row justify-content-center mb-5">
+    <div class="col-lg-10">
+        <div class="card shadow-lg">
+            <div class="card-header bg-primary text-white text-center">
+                <h3 class="card-title mb-0">Eixos Temáticos</h3>
+            </div>
+            <div class="card-body">
+                <div class="row g-3 justify-content-center">
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <button class="btn btn-outline-primary btn-lg w-100 eixo-btn" data-eixo="1">
+                            <i class="fas fa-book fa-2x mb-2"></i><br>Eixo 1
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <button class="btn btn-outline-success btn-lg w-100 eixo-btn" data-eixo="2">
+                            <i class="fas fa-lightbulb fa-2x mb-2"></i><br>Eixo 2
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <button class="btn btn-outline-info btn-lg w-100 eixo-btn" data-eixo="3">
+                            <i class="fas fa-cog fa-2x mb-2"></i><br>Eixo 3
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <button class="btn btn-outline-warning btn-lg w-100 eixo-btn" data-eixo="4">
+                            <i class="fas fa-chart-bar fa-2x mb-2"></i><br>Eixo 4
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <button class="btn btn-outline-danger btn-lg w-100 eixo-btn" data-eixo="5">
+                            <i class="fas fa-globe fa-2x mb-2"></i><br>Eixo 5
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="quiz-area" class="hidden">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-lg">
+                <div class="card-header">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h4 class="mb-0 text-primary">Quiz em Andamento</h4>
+                        <p id="contador-ui" class="mb-0 badge bg-secondary fs-6"></p>
+                    </div>
+                </div>
+                <div class="card-body p-4">
+                    <div id="loading" class="text-center p-5 hidden" style="display: none;">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Carregando...</span>
+                        </div>
+                        <p class="mt-2">Gerando pergunta...</p>
+                    </div>
+                    <div id="erro-container"></div>
+                    
+                    <div id="pergunta-container" class="mb-4">
+                        <h2 id="pergunta-texto" class="h4 text-center"></h2>
+                    </div>
+
+                    <div id="alternativas-container" class="d-grid gap-3 mb-4">
+                        </div>
+
+                    <div id="explicacao-container" class="hidden" style="display: none;">
+                        </div>
+                    
+                    <div class="text-center mt-4">
+                        <button id="botao-proxima" class="btn btn-primary btn-lg hidden me-3">
+                            <i class="fas fa-arrow-right me-2"></i>Próxima Pergunta
+                        </button>
+                        <button id="botao-finalizar" class="btn btn-warning btn-lg hidden">
+                            <i class="fas fa-flag-checkered me-2"></i>Finalizar Quiz
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="resultado-area" class="hidden">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-success">
+                <div class="card-header bg-success text-white text-center">
+                    <h3 class="card-title mb-0">
+                        <i class="fas fa-trophy me-2"></i>Resultado do Quiz
+                    </h3>
+                </div>
+                <div class="card-body p-4 text-center">
+                    <div id="pontuacao-final" class="mb-4">
+                        <h2 class="display-4 text-success" id="pontos-display">0/0</h2>
+                        <p class="lead" id="percentual-display">0% de acerto</p>
+                    </div>
+                    
+                    <div id="desempenho-detalhado" class="mb-4">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="p-3 bg-success bg-opacity-10 rounded">
+                                    <h5 class="text-success">Corretas</h5>
+                                    <h3 id="corretas-count" class="text-success">0</h3>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 bg-danger bg-opacity-10 rounded">
+                                    <h5 class="text-danger">Incorretas</h5>
+                                    <h3 id="incorretas-count" class="text-danger">0</h3>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 bg-info bg-opacity-10 rounded">
+                                    <h5 class="text-info">Total</h5>
+                                    <h3 id="total-count" class="text-info">0</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-center">
+                        <button onclick="window.location.reload()" class="btn btn-primary btn-lg">
+                            <i class="fas fa-redo me-2"></i>Fazer Outro Quiz
+                        </button>
+                        <button id="voltar-inicio" class="btn btn-outline-secondary btn-lg">
+                            <i class="fas fa-home me-2"></i>Voltar ao Início
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

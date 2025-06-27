@@ -1,0 +1,183 @@
+GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA
+1.
+Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas
+◦
+Conceitos e Princípios: O pensamento estratégico é associado à antecipação de ações, avaliação de efeitos, riscos, custos e benefícios, lidando com incertezas e vendo situações globalmente. Ele transmite a fundamentação para construir modelos e ferramentas gerenciais que garantam maior efetividade na gestão de organizações públicas e privadas, sendo fundamental em épocas de grandes transformações. A gestão estratégica é a resposta mais adequada ao novo perfil de gestão pública, e o planejamento estratégico deve ser compreendido como uma parte indissociável da gestão estratégica, junto com a avaliação e a necessidade de indicadores efetivos. O planejamento é um processo sistemático e constante de tomada de decisões, envolvendo ações inter-relacionadas e interdependentes para alcançar objetivos. O processo de planejamento é considerado mais importante que seu produto final (o plano) devido à dinâmica dos atores no enfrentamento de problemas e reconhecimento de oportunidades.
+◦
+Etapas: A fase de preparação do planejamento estratégico envolve o estudo das premissas, como a missão organizacional e valores, documentos que definem atribuições e marcos regulatórios, e diagnósticos institucionais anteriores. É essencial analisar os ambientes internos e externos para consolidar um Diagnóstico Estratégico atualizado e mobilizar as lideranças. Entrevistas semiestruturadas com a alta administração e líderes setoriais podem captar a visão sobre a organização e sua proposta de futuro.
+◦
+Níveis: O planejamento se desdobra em três níveis:
+▪
+Estratégico: Envolve a definição do rumo da organização, visando otimizar sua relação com o ambiente.
+▪
+Tático: Desenvolve programas e projetos, como os de tecnologia, informática e recursos humanos.
+▪
+Operacional: Detalha as ações e atividades necessárias para atingir os objetivos e metas dos níveis superiores.
+◦
+Métodos e Ferramentas: São utilizadas diversas ferramentas e metodologias, como o Balanced Scorecard (BSC), a Matriz SWOT, e a metodologia OKR. A Gestão à Vista é uma prática de comunicação que disponibiliza informações de forma simples e de fácil assimilação para facilitar o trabalho diário e a busca pela melhoria da qualidade. Ela permite a divulgação de informações para um maior número de pessoas e ajuda a estabelecer o compartilhamento de conhecimento como parte da cultura organizacional, acompanhando o desempenho de estratégia, processos e equipes.
+2.
+Balanced Scorecard (BSC)
+◦
+O Balanced Scorecard é uma ferramenta para a Gestão da Estratégia. Um scorecard de estratégia típico é composto por três componentes principais: Metas, Indicadores ou métricas e Iniciativas ou planos de ação. Um painel (dashboard) é uma versão simplificada e agregada de um scorecard de estratégia complexo. O mapa estratégico é um diagrama usado exclusivamente no planejamento estratégico, focado em objetivos e nas conexões de causa e efeito entre eles, servindo para discutir e compartilhar as ideias principais de uma estratégia. O BSC permite a tradução da estratégia por meio desse mapa, criando um referencial comum de fácil compreensão, o que possibilita o trabalho coordenado e colaborativo em prol das metas traçadas. Ele também auxilia na alocação estratégica de recursos e na elaboração do plano de comunicação da estratégia.
+3.
+Matriz SWOT
+◦
+A Matriz SWOT (Strengths, Weaknesses, Opportunities, Threats – Forças, Fraquezas, Oportunidades, Ameaças) é uma ferramenta utilizada no Diagnóstico Organizacional. As Forças e Fraquezas são fatores internos à organização, enquanto as Oportunidades e Ameaças são fatores externos. O preenchimento dos quadrantes da SWOT é apenas o início; é crucial analisar o que a empresa deve fazer para aproveitar seus pontos fortes e oportunidades, melhorar seus pontos fracos e minimizar o efeito de ameaças potenciais, o que requer um plano de ação.
+4.
+Estabelecimento de objetivos e metas organizacionais
+◦
+Objetivos: Devem nortear as ações e decisões da instituição, aproveitando oportunidades relevantes, eliminando ou reduzindo ameaças, ou dando maior precisão a uma diretriz estratégica. Para que o planejamento seja implementado, é necessário que todos os envolvidos compreendam os objetivos que a organização pretende alcançar, os recursos a serem utilizados e o que se espera de cada área de negócio. O primeiro passo na construção de indicadores é a clara identificação do objetivo da mensuração.
+◦
+Metas: Representam o resultado almejado para um indicador em um determinado horizonte de tempo. Devem ser alcançáveis, desafiadoras, diretas, negociáveis e fundamentadas em séries históricas, tendências e benchmark. Ao estabelecê-las, é importante considerar os desempenhos anteriores, o cenário atual, a linha de base (ponto de partida) e a disponibilidade de recursos.
+◦
+OKR (Objectives and Key Results): Uma ferramenta de avaliação de desempenho que incentiva a definição de metas ambiciosas e desafiadoras ("Sonhos Grandes"). O OKR opera com três ritmos: Planejamento (grandes metas anuais), Ação (missões curtas trimestrais para equipes) e Verificação (checagem semanal de resultados e planos). É um processo colaborativo que une ideias de "cima para baixo" e "de baixo para cima".
+5.
+Métodos de desdobramento de objetivos e metas e elaboração de planos de ação e mapas estratégicos
+◦
+Os mapas estratégicos são usados para traduzir a estratégia, balanceando objetivos em diferentes perspectivas e interligando-os por relações de causa e efeito, que são gerenciadas por indicadores.
+◦
+Os planos de ação, muitas vezes representados por projetos, são as iniciativas estabelecidas para orientar o alcance dos objetivos estratégicos. Um plano de trabalho deve contemplar as ações necessárias para o resultado final, com prazos estimados e recursos necessários. A priorização de ações pode ser baseada em oportunidades de melhoria de processos de interesse da alta administração, podendo-se utilizar métodos como o G.U.T.. A elaboração de um plano de trabalho deve conter o objetivo, a justificativa (explicando a importância e os fatos que levaram à priorização) e um cronograma de ação com responsáveis e prazos. Este plano precisa ser aprovado pela alta administração para que os trabalhos de implementação possam começar.
+6.
+Implementação de estratégias
+◦
+A realização da estratégia é apurada por meio de indicadores quantitativos e qualitativos. A implementação da estratégia pode ser aprimorada pela estruturação de uma unidade ou comitê multidisciplinar responsável pela condução, monitoramento e avaliação do planejamento estratégico. Durante o processo, são realizadas avaliações intermediárias que permitem discussões amplas e ajustes nos níveis tático e estratégico. Uma avaliação final do plano estratégico, ao término do prazo estabelecido, verifica o que foi alcançado e fornece subsídios para o planejamento subsequente. A avaliação da gestão estratégica compreende a análise crítica dos referenciais estratégicos (Missão, Visão, Valores), do Mapa Estratégico (incluindo objetivos), da integração com o PPA, resultados de auditorias, suficiência das iniciativas, plano de comunicação, patrocínio da alta administração, mobilização de lideranças e recursos.
+7.
+Análise de cenários
+◦
+A análise de cenários está integrada à fase de preparação do planejamento estratégico, onde os ambientes internos e externos são analisados para a consolidação de um Diagnóstico Estratégico atualizado. Entrevistas com as lideranças são utilizadas para captar suas visões sobre a organização e formar um documento consolidado sobre a proposta de futuro para a instituição, o que pode incluir projeções de cenários futuros.
+8.
+Ferramentas de gestão
+◦
+As ferramentas de gestão são aplicadas em diversos contextos para otimizar processos e alcançar resultados. No que tange à Gestão da Qualidade no Serviço Público, o curso "Análise e Melhoria de Processos" busca fornecer os fundamentos da Gestão de Processos, capacitando os participantes a utilizar os principais conceitos e ferramentas para a efetividade dos processos organizacionais. O objetivo é compreender a evolução dos modelos de gestão e a inserção da gestão por processo no contexto de flexibilidade organizacional, além de promover melhorias em processos reais.
+9.
+Metodologias para medição de desempenho
+◦
+A medição de desempenho é crucial para a gestão. Um Sistema de Medição de Desempenho (SMD) é fundamental para a criação de metas e o acompanhamento contínuo da estratégia. A premissa central é: "quem não mede, não gerencia". A mensuração é necessária para caracterizar o que se faz e descobrir onde melhorar. Indicadores bem elaborados e confiáveis fortalecem a articulação e mobilização das partes interessadas em torno das propostas. O processo de construção de indicadores começa com a definição do que se deseja medir e a identificação do objetivo da mensuração. Em seguida, identificam-se os fatores críticos de sucesso, constroem-se as fórmulas dos indicadores e define-se a fonte dos dados. Por fim, estabelecem-se as metas e os responsáveis pela apuração. É importante garantir a precisão dos dados, pois um sistema de informação com dados errados levará a decisões equivocadas.
+10.
+Indicadores de desempenho: conceito, formulação e análise
+◦
+Conceito: Indicadores são parâmetros que permitem caracterizar o que se faz e identificar onde melhorar. São o "painel de controle" da gestão estratégica e devem gerar resultados e agregação de valor. Exemplos de tipos de indicadores incluem o Item de Verificação da Qualidade (IVQ), que representa as causas, e o Item de Controle da Qualidade (ICQ), que representa os efeitos.
+◦
+Atributos: Indicadores devem possuir seletividade ou importância (fornecendo informações sobre variáveis estratégicas e prioridades), representatividade, confiabilidade, sensibilidade, comparabilidade e estabilidade.
+◦
+Formulação: A construção de um indicador sempre deve começar pelo objetivo que se deseja medir. A comunicação de objetivos é mais clara e precisa quando traduzida por indicadores de desempenho, pois valores numéricos são mais diretos do que termos qualitativos.
+◦
+Análise: Dashboards (painéis de controle) são uma forma comum e eficaz de exibir grandes quantidades de informações sobre métricas, coletando dados eletronicamente e gerando gráficos de status. Eles geralmente oferecem resumos de alto nível e permitem análise detalhada dos dados. Dashboards ajudam a articular visualmente a história de uma estratégia, respondendo a perguntas como o estado atual, a comparação com o estado anterior ou alvo, e a agregação de dados por períodos. Os títulos de gráficos e diagramas devem ser descritivos para contar uma história. Um bom painel de controle deve ter seletividade (escolha de objetos significativos) e coerência (alinhamento entre objeto e metodologia). A narrativa visual ou storytelling com dados é uma ferramenta poderosa para explicar, vender ideias e projetos, favorecendo uma conexão racional e emocional com o público.
+11.
+Detalhamento da ferramenta de avaliação de desempenho: OKR
+◦
+O OKR (Objectives and Key Results) é uma metodologia que visa transformar a forma como os objetivos são alcançados. Ele incentiva a definição de metas ambiciosas e elevadas, buscando a superação. Os OKRs operam com três ritmos principais:
+▪
+Ritmo de Planejamento: Estabelece grandes metas para o ano todo.
+▪
+Ritmo de Ação: Define missões curtas a cada três meses para as equipes.
+▪
+Ritmo de Verificação: Realiza a checagem semanal dos resultados e planos.
+◦
+O OKR é visto como um "quebra-cabeça gigante" que integra ideias de todos os níveis organizacionais, de cima para baixo e de baixo para cima, incentivando que cada indivíduo contribua para a construção de um objetivo comum com metas excepcionais.
+12.
+Gestão de projetos
+◦
+Conceitos Básicos: Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado único, caracterizado por ter um início e um fim definidos. Projetos podem ser independentes ou fazer parte de um programa ou portfólio. Um programa é um grupo relacionado de projetos, subprogramas e atividades gerenciados de forma coordenada para obter benefícios que não estariam disponíveis se fossem gerenciados individualmente. Um portfólio consiste em projetos, programas, subportfólios e operações gerenciadas em grupo para alcançar objetivos estratégicos.
+◦
+Escritório de Gerenciamento de Projetos (EGP): É uma estrutura de gerenciamento que padroniza os processos de governança relacionados com o projeto e facilita o compartilhamento de recursos, metodologias, ferramentas e técnicas. Os EGPs podem assumir diversas formas, como oferecer orientação para a consistência dos projetos (diretrizes, modelos, exemplos de boas práticas, treinamento) ou atuar como um Escritório de Entrega de Valor (EEV) ou Centro de Excelência Ágil (CEA) em organizações com estruturas mais planas e iniciativas centradas no cliente. EGPs eficazes promovem a entrega e as capacidades orientadas a resultados, focam em iniciativas essenciais e orquestram conversas entre líderes para obter insights precisos sobre o desempenho do projeto.
+13.
+Processos do PMBOK
+◦
+É importante notar que a Sétima Edição do Guia PMBOK® (Guia do Conhecimento em Gerenciamento de Projetos) se afasta da abordagem estritamente baseada em processos das edições anteriores. Em vez disso, ela enfatiza doze princípios do gerenciamento de projetos e oito domínios de desempenho do projeto que são essenciais para a entrega eficaz dos resultados. Os princípios não são prescritivos, mas orientam o comportamento das pessoas envolvidas em projetos.
+◦
+Princípios do Gerenciamento de Projetos: Incluem "Ser um administrador diligente, respeitoso e atencioso", "Manter o foco no valor", "Promover qualidade em processos e resultados", "Criar um ambiente de equipe colaborativa", "Demonstrar comportamentos de liderança", "Engajar-se de fato com as partes interessadas", "Fazer o tailoring com base no contexto", "Otimizar respostas a riscos", "Navegar pela complexidade", "Adotar adaptabilidade e resiliência", "Reconhecer, avaliar e reagir às interações com o sistema" e "Aceitar a mudança para alcançar o futuro estado previsto".
+◦
+Domínios de Desempenho do Projeto: Operam como um sistema integrado e interdependente ao longo do projeto, apresentando amplas áreas de foco para demonstrar os comportamentos guiados pelos princípios. São eles:
+▪
+Partes Interessadas: Foca no engajamento produtivo, compreensão das necessidades e expectativas, e priorização das partes interessadas.
+▪
+Equipe: Envolve o estabelecimento de uma cultura e ambiente que permitam a formação de uma equipe de projeto de alto desempenho, incluindo a comunicação da visão e objetivos do projeto.
+▪
+Abordagem de Desenvolvimento e Ciclo de Vida: Reflete a gama de abordagens de desenvolvimento (preditiva, adaptativa, híbrida) e o ciclo de vida do projeto (inicialização, plano, execução, encerramento).
+▪
+Planejamento: Organiza, elabora e coordena o trabalho do projeto, proativamente desenvolvendo uma abordagem para criar as entregas. Inclui estimativas de tempo, recursos e aquisições, além da definição de escopo.
+▪
+Trabalho do Projeto: Abrange os processos e atividades para criar as entregas do projeto.
+▪
+Entrega: Concentra-se em entregar o valor pretendido pelo projeto. Isso inclui a obtenção, documentação e evolução dos requisitos, e a definição e decomposição do escopo (produto e projeto).
+▪
+Medição: Avalia o grau em que o trabalho realizado está cumprindo as métricas identificadas no planejamento, permitindo que a equipe aprenda e determine ações corretivas. Categorias comuns de métricas incluem entrega, desempenho de linha de base, recursos, valor de negócio, partes interessadas e previsões. Painéis de controle (dashboards) são um meio comum de mostrar informações sobre métricas.
+▪
+Incerteza: Aborda riscos, ambiguidade e complexidade. Um dos princípios é otimizar as respostas a riscos.
+14.
+Gerenciamento da integração, do escopo, do tempo, de custos, da qualidade, de recursos humanos, de comunicações, de riscos, de aquisições, de partes interessadas
+◦
+Estes tópicos, embora listados como "processos do PMBOK" na sua estrutura, são amplamente abordados no PMBOK 7ª Edição através dos Domínios de Desempenho e Princípios:
+▪
+Integração: Abordado pelo "Sistema para entrega de valor" e pelo conceito de alinhamento das atividades de planejamento.
+▪
+Escopo: Detalhado no Domínio de Desempenho da Entrega, incluindo a definição do escopo do produto e do projeto, e sua decomposição (por exemplo, Estrutura Analítica do Projeto - EAP, ou histórias de usuário em abordagens ágeis).
+▪
+Tempo: O Domínio de Desempenho do Planejamento abrange a estimativa de tempo e o desenvolvimento do cronograma do projeto.
+▪
+Custos: O planejamento inclui a estimativa do valor da contratação e a criação de uma linha de base dos custos. A medição de desempenho pode incluir métricas de valor de negócio e recursos.
+▪
+Qualidade: O princípio de "Promover qualidade em processos e resultados" e a importância da qualidade em serviços são fundamentais. O Plano de Gerenciamento da Qualidade é um artefato importante, e o Relatório de Qualidade resume questões e recomendações.
+▪
+Recursos Humanos: O Domínio de Desempenho da Equipe trata da composição, estrutura e desenvolvimento da equipe do projeto, focando em habilidades e capacidades.
+▪
+Comunicações: O Domínio de Desempenho do Planejamento aborda a comunicação, e artefatos como o Plano de Gerenciamento das Comunicações são utilizados. A redação oficial, um aspecto de comunicação, exige clareza, concisão, objetividade, coesão, coerência, impessoalidade, formalidade e padronização. A Gestão à Vista é uma prática de comunicação eficaz para a divulgação de informações.
+▪
+Riscos: Gerenciado principalmente através do Domínio de Desempenho da Incerteza, que aborda a exposição ao risco, ameaças e oportunidades. O Registro dos Riscos e o Plano de Gerenciamento dos Riscos são artefatos cruciais. A gestão de riscos deve ser realizada durante todas as fases de um processo de contratação.
+▪
+Aquisições: As atividades de aquisição fazem parte do Domínio de Desempenho do Planejamento e do Trabalho do Projeto, envolvendo a análise de "fazer ou comprar", o processo de licitação e a contratação. A Lei nº 14.133/2021 estabelece normas detalhadas para licitações e contratos, incluindo a fase preparatória, tipos de bens e serviços, e critérios de aceitação. As contratações sustentáveis são um aspecto relevante, exigindo considerações ambientais e sociais em todas as fases da contratação.
+▪
+Partes Interessadas: O Domínio de Desempenho das Partes Interessadas foca na identificação, análise, priorização e engajamento produtivo de todas as partes envolvidas. O Registro das Partes Interessadas e o Plano de Engajamento das Partes Interessadas são artefatos fundamentais.
+15.
+Metodologias ágeis
+◦
+As metodologias ágeis são abordagens de desenvolvimento que se caracterizam pela adaptabilidade e flexibilidade, contrastando com as abordagens preditivas ou em cascata. O "Guia de Projetos Ágeis do SISP" foi criado para viabilizar e difundir o uso dessa metodologia nas instituições públicas. Este guia foca na construção de projetos de software, especialmente útil para equipes internas reduzidas, e baseia-se na terceirização desses serviços.
+◦
+Principais Práticas e Artefatos: Incluem a definição de uma visão e roadmap do produto (planejamento cronológico de releases - versões do produto), o backlog do produto (lista ordenada de tudo que deve ser necessário no produto) e o backlog da iteração (subconjunto do backlog do produto para uma iteração). As histórias de usuário são descrições curtas de características do produto na perspectiva do usuário.
+◦
+Ciclo de Vida e Atividades: O modelo de referência ágil engloba grupos de atividades como planejamento (visão, roadmap, backlog), construção do release (iterações para construir incrementos de software funcionais) e transição (disponibilização do produto). A Gestão da Ordem de Serviço, o controle e acompanhamento do projeto, e a gestão de ambientes de TI (desenvolvimento, testes, homologação, treinamento, produção) são atividades complementares que perpassam todo o ciclo.
+◦
+Papéis: O Dono do Produto é responsável pela definição de requisitos, priorização de funcionalidades e homologação. O Mestre Scrum facilita o trabalho da equipe, removendo impedimentos. A Equipe de Desenvolvimento implementa, testa e entrega incrementos de software.
+◦
+Critérios de "Pronto": São definidos para as entregas e devem incluir que o incremento de produto seja testado, integrado, documentado e com usuários finais treinados. Também podem abranger a adequação formal e material da escrita dos requisitos.
+16.
+Gestão de processos de negócio
+◦
+O curso "Análise e Melhoria de Processos" apresenta uma visão geral e abrangente da gestão da qualidade no serviço público, aprofundando a análise e melhoria de processos. Ele aborda os fundamentos da Gestão de Processos para capacitar os participantes a utilizar os principais conceitos e ferramentas na busca da efetividade dos processos organizacionais. O objetivo é contextualizar a gestão de processos, nivelar conceitos, entender a agregação de valor e a dimensão humana, e capacitar para classificar processos, identificar indicadores de gerenciamento e as etapas recomendadas para promover melhorias.
+17.
+Conceitos da abordagem por processos
+◦
+Um processo é definido como um sequenciamento lógico de atividades e tarefas voltado para um resultado, devendo gerar resultados e agregação de valor. A gestão de processos é fundamental para que o trabalho seja percebido como sequenciado e integrado, convergindo para a realização dos objetivos.
+◦
+Os processos organizacionais são os elos entre as estratégias e as pessoas, sendo necessário atingir o alinhamento entre eles com sincronismo em seu gerenciamento.
+◦
+A gestão por processos lida com diferentes níveis de detalhe: macroprocessos, processos, subprocessos, etapas, atividades e tarefas.
+▪
+Etapas: São conjuntos de atividades necessárias e suficientes para a execução de cada subprocesso.
+▪
+Atividades: São conjuntos de tarefas, com início e fim identificável, orientadas para a consecução dos objetivos definidos em cada etapa.
+▪
+Tarefas: Compreendem a sequência de passos para realizar uma atividade, geralmente envolvendo explicações detalhadas sobre o "como fazer".
+◦
+Uma estrutura de processos bem definida permite que a organização opere como uma rede de serviços, com poucos níveis hierárquicos, agregando valor ao cliente.
+18.
+Técnicas de mapeamento, análise, melhoria e integração de processos
+◦
+O curso de Análise e Melhoria de Processos oferece conhecimento de metodologia para análise e solução de problemas.
+◦
+O MASP (Método de Análise e Solução de Problemas) é uma metodologia empregada no processo de melhoria, começando pela identificação clara e criteriosa do problema. O MASP tem relação com o Ciclo PDCA.
+◦
+A Análise Crítica é a avaliação global de um projeto, serviço, produto, informação ou processo organizacional em relação a requisitos, com o objetivo de identificar problemas e propor soluções. Recomenda-se que a análise e definição do problema sejam fundamentadas em evidência empírica quantitativa.
+◦
+A melhoria contínua é a conjugação dos Ciclos de Manutenção e Melhoria.
+◦
+A padronização dos processos mais importantes é um procedimento indispensável para a melhoria; sem ela, não existe gerenciamento. O padrão é o instrumento básico do gerenciamento das rotinas, indicando a meta e os procedimentos para a execução dos trabalhos.
+◦
+O desenho de processos envolve a criação de especificações para processos de negócio dentro do contexto de objetivos e desempenho, definindo como o trabalho ponta a ponta proporciona valor aos clientes.
+◦
+A memória administrativa (documentos legais, técnicos, históricos, formais e informais) fornece parâmetros para comparações e avaliação dos processos.
+◦
+O gerenciamento de desempenho de processos envolve a definição de indicadores-chave de desempenho, o monitoramento e controle das operações, incluindo métodos de medição, modelagem, simulação e suporte à decisão.
+◦
+O gerenciamento de processos corporativos busca maximizar os resultados dos processos de negócio de acordo com estratégias e objetivos definidos, utilizando um framework de medição centrado no cliente e um plano de gerenciamento e melhoria em nível empresarial.

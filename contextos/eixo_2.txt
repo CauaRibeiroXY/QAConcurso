@@ -1,0 +1,175 @@
+== EIXO TEMÁTICO 2: POLÍTICAS PÚBLICAS ==
+Políticas Públicas referem-se ao conjunto de programas ou ações governamentais, integradas e articuladas, necessárias e suficientes para a provisão de bens ou serviços à sociedade, dotadas de recursos orçamentários ou de renúncia de receitas e benefícios financeiros e creditícios. A formulação de políticas públicas é um processo complexo que envolve a definição de uma agenda (quais problemas merecem atenção governamental) e a definição de alternativas (propostas de solução para esses problemas). Este processo não é um evento único, mas uma combinação complexa de instituições e atores, elementos técnicos e políticos.
+=== TÓPICO 1: O PROCESSO DE ELABORAÇÃO DE POLÍTICAS ===
+--- Subtópico 1.1: O papel do Estado ---
+O Estado, em suas diversas acepções, é o ente fundamental na formulação e execução das políticas públicas. Sob o aspecto sociológico, o Estado é uma corporação territorial com poder de mando. No aspecto político, é uma comunidade de pessoas em um território específico, com poder de mando e coerção. Já sob o aspecto constitucional, o Estado é uma pessoa jurídica soberana. Ele é constituído por três elementos indissociáveis: povo, território e governo soberano.
+A organização política do território pode resultar em duas formas principais de Estado: o Estado Unitário, que é politicamente centralizado com um único poder central, e o Estado Federado, que se apoia na descentralização política, como o Brasil, onde coexistem entes federativos autônomos (União, Estados, Distrito Federal e Municípios). Em federações, há descentralização política, repartição de competências e a soberania do Estado.
+O papel do Estado na elaboração de políticas públicas é multifacetado:
+•
+Identificação e Intervenção: As políticas públicas nascem da identificação e caracterização de um problema que demanda intervenção estatal. A atuação do Estado justifica-se ao corrigir falhas de mercado, sendo uma necessidade social e, muitas vezes, uma obrigação legal, política e ética, especialmente quando mandada pela Constituição ou legislação.
+•
+Otimização de Recursos e Bem-Estar: O objetivo é otimizar os recursos públicos e promover o bem-estar da sociedade.
+•
+Governança e Objetivos Claros: O Estado deve estabelecer objetivos claros para sua atuação e um desenho de política que seja efetivamente alcançável. A nova sistemática de avaliação de políticas, por exemplo, visa aprimorar a racionalidade do ciclo da política pública para instruir a tomada de decisão.
+•
+Estabilização Econômica e Redução de Desigualdades: O Estado intervém para cumprir sua função de estabilização da economia, como na redução do custo da mão de obra para combater o desemprego. As políticas públicas devem zelar para que o Estado cumpra sua função essencial de desenvolvimento com equidade e sustentabilidade, atuando na alocação de recursos, estabilidade e redução das desigualdades sociais.
+•
+Modernização e Transparência: O Estado busca aumentar a eficiência da administração pública através da desburocratização, inovação, transformação digital e participação cidadã. Isso inclui o dever do gestor público de prestar contas diretamente à população e o uso de linguagem clara. O governo deve ser transparente e aberto, disponibilizando dados e informações de forma proativa para o acompanhamento e participação da sociedade.
+•
+Criação de Redes e Sistemas: O Poder Executivo federal pode criar redes de conhecimento para gerar e disseminar informações, formular padrões e guias, e prospectar novas tecnologias. Também busca consolidar um governo integrado que otimize serviços digitais e unifique o acesso do cidadão. Há um esforço para aprimorar a governança digital, com a Estratégia de Governo Digital (E-Digital) visando o desenvolvimento econômico e social através da tecnologia.
+--- Subtópico 1.2: A burocracia e o Estado ---
+A burocracia é uma forma organizacional de um sistema sociopolítico, administrada de forma hierárquica, baseada na autoridade racional-legal, onde as normas prevalecem sobre os interesses individuais e a discricionariedade de seus agentes. É um trabalho baseado em papéis e documentos, movimentados em sequência contínua entre as unidades da estrutura organizacional. A organização burocrática exerce controle com base no conhecimento.
+Para Max Weber, as características da burocracia incluem:
+•
+Tamanho: número total de empregados.
+•
+Formalização: nível de documentação escrita.
+•
+Especialização: grau em que as atividades organizacionais são divididas em tarefas separadas, levando a uma menor gama de trabalho realizado.
+•
+Padronização: atividades semelhantes são realizadas de maneira uniforme.
+•
+Centralização: ponto geométrico da tomada de decisão.
+A qualidade das instituições do Estado, incluindo a burocracia, é amplamente reconhecida como crucial para a regulação dos comportamentos humanos, o fornecimento de bens coletivos, a execução e fiscalização de serviços públicos, e a formulação e implementação de políticas. Pesquisas indicam que, para um ambiente propício ao crescimento econômico, a burocracia deve ter recrutamento baseado em meritocracia, possibilidade de promoção interna e estabilidade profissional.
+No Brasil, os estudos sobre a burocracia e a implementação de políticas públicas ainda são considerados incipientes, com lacunas relevantes no plano teórico, especialmente no estudo das fases de implementação e avaliação. A burocracia, especialmente os burocratas de nível de rua (aqueles que interagem diretamente com os usuários-cidadãos), é fundamental para a tradução das políticas formuladas pelo Estado em ações concretas. Eles atuam como mediadores, centralizadores de informações e intermediários estratégicos entre os agentes políticos e os cidadãos, preenchendo lacunas de objetivos imprecisos ou contraditórios definidos na fase de formulação.
+A atuação da burocracia pode ser analisada sob três perspectivas principais:
+•
+Perspectiva Estrutural: Refere-se à obediência dos agentes a regras formais, em decorrência da posição na hierarquia burocrática e do cumprimento de obrigações associadas ao cargo. As normas incorporam crenças, expectativas institucionais, práticas e rotinas que guiam o comportamento dos atores.
+•
+Perspectiva de Ação Individual: Envolve a aplicação de modelos de gestão empresarial na esfera pública. Para uma implementação eficaz, é necessário definir objetivos claros e mecanismos de controle/coordenação para alinhar interesses. Segundo essa lógica, o indivíduo tende a decisões alinhadas com interesses pessoais, necessitando de incentivos e sanções para alinhar com os interesses institucionais.
+•
+Perspectiva Relacional: Estuda as múltiplas interações dos agentes burocráticos com outros agentes internos e externos ao Estado. A atuação dos burocratas é concebida dentro de um sistema abrangente de relações, articulado em redes. A variabilidade na implementação de políticas pode ser explicada pela interação recíproca e troca de informações entre burocratas da linha de frente e outros agentes. A intensidade e frequência das interações, bem como a qualidade e quantidade das informações compartilhadas, afetam o processo de implementação.
+Essas perspectivas não são excludentes, mas complementares. O plano (normas e estruturas) pode ser visto como um conjunto de intenções que são continuamente interpretadas e aprimoradas pelos atores; a ação individual é moldada por valores e ideias, e as interações sociais influenciam as relações de poder no ambiente de trabalho.
+--- Subtópico 1.3: Poder, racionalidade e tomada de decisões ---
+A investigação da formulação de políticas públicas está intrinsecamente ligada ao estudo do poder político. A definição de uma agenda e a seleção de alternativas são atos de poder que estruturam o debate e direcionam a atenção governamental.
+Poder na Definição de Problemas e Alternativas:
+•
+Definição Estratégica: Problemas são definidos na política para mobilizar apoio em um conflito. A forma como um problema é definido é uma declaração sobre o que está em jogo, quem é afetado, e como interesses e alianças são formados. O discurso político é usado para "explicar, descrever, recomendar e, sobretudo, persuadir".
+•
+Causalidade e Responsabilidade: A definição de problemas está sempre ligada a pressupostos sobre suas causas. Narrativas de causa e efeito são cruciais para a representação simbólica na política e para atribuir responsabilidades.
+•
+Imagens de Políticas: O conceito de imagem de política (ideias que sustentam arranjos institucionais, comunicadas de forma simples) é central para entender a estabilidade ou desestruturação de "monopólios de políticas" (subsistemas com entendimento compartilhado e estrutura institucional definida). Mudanças nas "imagens de políticas" podem atrair ou afastar participantes e criar oportunidades para questões ascenderem na agenda.
+•
+Monopólio de Políticas: Um monopólio de políticas é um subsistema onde um conjunto de atores (burocratas, analistas, políticos, acadêmicos, lobistas) compartilha um entendimento específico sobre uma questão e possui uma estrutura institucional definida que garante (ou restringe) o acesso ao processo decisório. Quando a imagem da política se desestrutura, o monopólio pode ruir, permitindo a entrada de novos atores e ideias.
+Racionalidade e Tomada de Decisões:
+•
+Racionalidade Limitada (Bounded Rationality): A tomada de decisão em políticas públicas é complexa e ocorre em um ambiente de racionalidade limitada, onde os indivíduos têm dificuldade em compreender o mundo em sua totalidade. Eles criam uma "imagem simplificada do mundo" para interpretar o ambiente a partir dos interesses e objetivos da organização.
+•
+Satisficing vs. Otimização: Em vez de buscar resultados ótimos globais, os tomadores de decisão frequentemente buscam resultados satisfatórios (satisficing).
+•
+Hierarquias e Rotinas: Em ambientes de grande incerteza, o predomínio de hierarquias sobre mercados garante mais eficiência através de coordenação e padronização. Indivíduos que aceitam regras e seguem rotinas organizacionais têm vantagem, pois essas rotinas e procedimentos garantem estabilidade e permitem a evolução do sistema. Decisões são frequentemente tomadas de forma sequencial e hierárquica, gerando procedimentos padronizados ou rotinizados (algoritmos).
+•
+Processamento de Informações: A forma como a atenção seletiva dos formuladores de políticas se processa, concentrando-se em algumas questões e ignorando outras, é crucial para explicar as mudanças na agenda. As informações são incertas e ambíguas, sujeitas à interpretação.
+•
+Escolha de Instrumentos: A escolha de instrumentos de política não é puramente técnica, mas profundamente política. As ideias, interesses, instituições e indivíduos moldam as visões sobre o que são "boas políticas" e "bons instrumentos". O desenho da política e a escolha de ferramentas dependem das interpretações e expectativas dos diferentes grupos sociais, e o poder político influencia quem é beneficiado ou prejudicado.
+•
+Ordem e Desordem: A atividade política é vista como um fenômeno movido por forças paradoxais de ordem e desordem. A definição de problemas é associada à criação de "desordem social" (conflito e disputa), enquanto a definição de soluções é parte da "política como ordem" (legitimando a ação governamental).
+--- Subtópico 1.4: O papel da burocracia e a discricionariedade no processo de formulação e implementação de políticas públicas ---
+A burocracia desempenha um papel central tanto na formulação quanto na implementação de políticas públicas, e sua atuação é marcada pela discricionariedade.
+Papel da Burocracia na Formulação:
+•
+Especialistas em Comunidades de Políticas: Burocratas atuam como especialistas em comunidades de políticas, que são conjuntos de atores (incluindo servidores do executivo, assessores parlamentares, acadêmicos, grupos de interesse) que compartilham preocupações sobre uma área específica (saúde, educação, habitação, transporte, etc.).
+•
+Geração e Experimentação de Ideias: Essas comunidades são espaços fundamentais para a geração e experimentação de ideias que podem ser adotadas como políticas públicas. Burocratas, como parte dessas comunidades, contribuem para o "fluxo de soluções".
+•
+Estruturação da Formulação: Em comunidades mais coesas, os integrantes compartilham perspectivas e referenciais, levando a uma formulação de políticas mais estruturada. Em comunidades fragmentadas, a ausência de um entendimento comum torna a formulação mais instável.
+•
+Gerenciamento da Ambiguidade: A ambiguidade inerente ao processo de políticas pode ser manipulada estrategicamente por empreendedores de políticas públicas, que são atores (muitas vezes burocratas) com preferências claras que buscam atribuir sentido e criar significados sobre as questões, difundindo ideias para outros atores. Eles são cruciais para conectar problemas e soluções.
+Discricionariedade na Implementação:
+•
+Definição: Discricionariedade é a liberdade de um funcionário público para fazer uma escolha entre possíveis cursos de ação ou inação dentro dos limites efetivos de seu poder. Não se confunde com arbítrio, mas com a margem de atuação concedida pela norma.
+•
+Confronto com Regras: A discricionariedade se manifesta na tensão dialética entre a estrutura (regras formais, hierarquia) e a agência (ação individual), moldada pelas relações entre os agentes.
+•
+Resolução de Lacunas: Políticas frequentemente são formuladas com objetivos imprecisos, contraditórios ou omissões. Os burocratas de nível de rua são responsáveis por resolver essas lacunas no plano administrativo, atuando como mediadores e intermediários estratégicos.
+•
+Conhecimento e Negociação: O conhecimento que os burocratas implementadores possuem sobre o sistema em que atuam lhes permite ampliar sua capacidade de negociação e seu poder discricionário, podendo desafiar ou defender o status quo de acordo com seus valores e interesses.
+•
+Adaptação ao Contexto Local: A implementação é um processo de execução e adaptação. Burocratas, em especial os de nível de rua, se esforçam para adaptar o plano ao contexto local. Para políticas que exigem adaptação local, a perspectiva relacional e certas variáveis da ação individual podem ter um peso preponderante na atuação do burocrata. Para políticas mais padronizadas, a perspectiva estrutural tende a prevalecer.
+•
+Influências no Comportamento: O comportamento dos burocratas implementadores é moldado por fatores gerenciais (estruturais), pessoais (ação individual) e relacionais, além de fatores institucionais. A adesão a regras e estruturas estabelecidas, a ação individual dos burocratas e suas interações mútuas, e com outros atores sociais, afetam conjuntamente a implementação das políticas públicas.
+•
+Tipos de Atuação: No Brasil, a maioria dos estudos sobre burocratas implementadores focou em agentes que entregam serviços e benefícios (como agentes de saúde, assistentes sociais). Há menos estudos sobre burocratas da linha de frente cuja atuação é voltada para a fiscalização e sanção de condutas infratoras (como policiais ou auditores fiscais).
+=== TÓPICO 2: IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS: PROBLEMAS, DILEMAS E DESAFIOS ===
+A implementação é a fase onde as políticas públicas se tornam realidade, caracterizada por processos estruturados que articulam diversos atores e recursos (materiais, humanos, financeiros, informacionais e institucionais) para alcançar os objetivos e metas. Ela descreve os instrumentos disponíveis e a forma de execução (direta, descentralizada para estados/DF/municípios, ou transferências).
+Problemas, Dilemas e Desafios da Implementação:
+•
+Inconsistências e Desperdícios: A análise ex ante da implementação visa identificar antecipadamente inconsistências, insuficiências ou desperdícios. Políticas lançadas sem clareza de responsabilidades, autonomia, monitoramento, controle ou planejamento de riscos geram incertezas, lacunas e gargalos.
+•
+Gestão e Governança: A gestão refere-se à forma como os atores determinam e operam os insumos e processos para gerar produtos, buscando resultados positivos, em escala, com satisfação da sociedade e eficiência. A governança pode ser centralizada, descentralizada, concentrada, desconcentrada, hierárquica ou em rede, e sua escolha deve ser explícita e adequada aos objetivos da política. As políticas devem ter normas e manuais que definam procedimentos e interações.
+•
+Articulação e Coordenação: A execução de políticas envolve a articulação com uma miríade de atores e distintos sistemas institucionais (políticos, técnicos, grupos de interesse, especialistas). É fundamental um estudo prévio de como articular os atores mais influentes, pois o sucesso não decorre apenas da eficiência gerencial.
+•
+Conflitos e Pactuação: A formulação de políticas é frequentemente resultado de barganhas entre posições divergentes de diversos atores políticos, o que pode gerar objetivos imprecisos, contraditórios ou incompletos. A implementação, então, atua na resolução dessas lacunas.
+•
+Dificuldades na Descentralização: Embora a descentralização seja um eixo importante para a reforma do Estado, aproximando-o dos cidadãos, ela pode promover desequilíbrios se os entes locais não tiverem capacidade de gestão ou recursos compatíveis. A descentralização brasileira é complexa e pode ser vista como incompleta, com o Governo Federal ainda fortalecido.
+•
+Gestão de Riscos: É crucial estruturar um processo de gestão de riscos desde a fase de formulação para garantir a consecução dos resultados almejados. Isso inclui estabelecer o contexto, identificar, analisar, avaliar e tratar os riscos.
+--- Subtópico 2.1: Arranjos institucionais para implementação de políticas públicas ---
+Arranjos institucionais são as combinações de regras, mecanismos e processos que uma política utiliza para garantir os insumos necessários e propiciar a interação coordenada de diversos atores. No Brasil, arranjos institucionais complexos têm inovado no desenho e implementação de políticas para promover a coordenação horizontal (entre setores de políticas), vertical (entre entes federativos) e com organizações ou a sociedade, visando a efetividade.
+Características e Inovações dos Arranjos Institucionais:
+•
+Transversalidade e Intersetorialidade: Há um movimento de mudança de modelos de gestão hierarquizados e setoriais para modelos mais transversais, intersetoriais e sistêmicos, com participação de diversos atores e foco na efetividade. A intersetorialidade busca integrar diferentes setores para tratar problemas específicos, como visto em programas como o "Brasil Sem Miséria" e "Minha Casa Minha Vida".
+•
+Coordenação Federativa: A Constituição Federal de 1988 impulsionou a descentralização, e o Governo Federal tem atuado como incentivador, estimulando o desenvolvimento de ações por meio de repasse de recursos vinculados à adesão voluntária dos entes subnacionais, com exigência de condicionalidades mínimas e monitoramento. Exemplos incluem o Sistema Único de Saúde (SUS) e o Sistema Único de Assistência Social (SUAS), onde as decisões são negociadas em fóruns coletivos com participação da sociedade. O Governo Federal assume um papel de liderança e coordenação no ciclo das políticas.
+•
+Inclusão de Novos Atores: O envolvimento de organizações não governamentais (ONGs) e da sociedade civil na execução e tomada de decisão das políticas públicas tem sido um movimento importante, especialmente após o Plano Diretor da Reforma do Estado de 1995.
+•
+Modelos de Implementação: Na implementação, observa-se a lógica de incentivos e induções, com o repasse de recursos do governo federal aos municípios e estados condicionado ao cumprimento de padrões mínimos de execução. A execução torna-se uma responsabilidade essencial dos entes subnacionais.
+•
+Instrumentos Legais de Parceria: A cooperação entre a União, Estados, DF e Municípios pode ser formalizada por instrumentos como termos de outorga, acordos de parceria e convênios para execução de projetos de pesquisa, desenvolvimento científico e tecnológico e inovação, permitindo o compartilhamento de recursos humanos e capacidade instalada.
+•
+Gestão Simplificada e Foco em Resultados: O Marco Legal da Ciência, Tecnologia e Inovação (CTI) prevê prestação de contas simplificada e focada nos resultados obtidos. Há flexibilidade na transposição, remanejamento e transferência de recursos entre categorias programáticas para garantir a eficácia e eficiência das atividades de CTI.
+•
+Transparência e Controle Social: Os arranjos institucionais complexos buscam formas mais integradas e eficazes de monitoramento e avaliação. A disponibilização de grandes bases de dados no formato de dados governamentais abertos (transparência ativa) pode ampliar os espaços de controle social sobre as políticas.
+=== TÓPICO 3: AVALIAÇÃO DE POLÍTICAS PÚBLICAS ===
+A avaliação de políticas públicas é um processo essencial para verificar seu desempenho, permitindo ajustes ao longo da execução e aprimorando os processos de tomada de decisão. Ela envolve julgamento, atribuição de valor e mensuração da política, fornecendo informações aprofundadas sobre seu funcionamento e efeitos. A avaliação é um dos oito passos propostos por Eugene Bardach para a análise de políticas.
+Componentes da Avaliação:
+•
+Monitoramento: É o exame contínuo dos processos, produtos, resultados e impactos das ações realizadas, fornecendo informações mais simples e imediatas sobre a operação e os efeitos da política. Um sistema de monitoramento é baseado em indicadores (econômico-financeiros, sociais, ambientais, de gestão de fluxo de implementação e de desempenho como economicidade, eficiência, eficácia e efetividade).
+◦
+Para o plano de monitoramento, deve-se especificar para cada indicador: a fase do modelo lógico associada, a descrição do indicador, a frequência da coleta, o órgão responsável, o valor da linha de base (se pertinente), a meta para o período e o valor realizado.
+◦
+Exemplo (Cartão Reforma): O SisReforma é o mecanismo operacional para consolidar informações de execução e acompanhamento, disponibilizadas no portal do programa e do Ministério das Cidades. Os controles incluem rastreamento georreferenciado e reconhecimento facial dos fiscais.
+◦
+Exemplo (Desoneração da Folha): O acompanhamento é mensal, e relatórios com dados de renúncia fiscal e desoneração são disponibilizados no site da Receita Federal, com dados abertos.
+•
+Avaliação Formal: Envolve estabelecer critérios para a avaliação da política/programa, como equidade, satisfação do usuário, sustentabilidade, custo-benefício, eficiência e eficácia.
+◦
+O plano de avaliação deve detalhar as análises planejadas, as perguntas a serem respondidas (baseadas no modelo lógico), o método a ser utilizado, os principais indicadores, a fonte de dados e o órgão responsável pela análise.
+◦
+A avaliação é crucial para verificar se os resultados efetivos condizem com o objetivo previsto (resultado esperado e meta proposta ex ante).
+◦
+Estudos e Pesquisas: Estudos abrangentes, interdisciplinares ou pesquisas pontuais geram informações sobre as mudanças promovidas pela política, podendo ser preliminares (para comparações e marcos) ou avaliativos (para verificar a efetividade).
+◦
+Gestão do Conhecimento: O processo de gestão do conhecimento permite aos participantes apropriarem-se das lições aprendidas, transformando conhecimento tácito em explícito e impulsionando o aprendizado da Administração em políticas similares.
+◦
+Auditoria e Fiscalização: Analisam as políticas e o uso correto dos recursos públicos, verificando conformidade com normas e desempenho das políticas. São realizadas pelas controladorias (controle interno) e tribunais de contas (controle externo).
+Tipos de Avaliação e Ferramentas:
+•
+Análise Ex Ante: Avaliação realizada antes da implementação da política para verificar se ela responde a um problema bem delimitado, se tem objetivos claros e um desenho alcançável. É fundamental para aprimorar a formulação e concepção das políticas e orientar a decisão para a alternativa mais efetiva, eficaz e eficiente. Suas etapas incluem diagnóstico do problema, caracterização e desenho da política, estratégia de confiabilidade e credibilidade, estratégia de implementação, monitoramento, avaliação e controle, análise de custo-benefício e impacto orçamentário-financeiro.
+•
+Análise de Custo-Benefício (ACB): Demonstra que os benefícios da proposta superam os custos do ponto de vista econômico e social. É um desafio na análise ex ante devido à necessidade de diversas hipóteses para mensurar os benefícios.
+◦
+Passos da ACB: 1) Identificação de custos (financeiros, físicos, humanos) e benefícios. 2) Quantificação dos custos e benefícios (usando dados, comparando experiências nacionais/internacionais). 3) Monetização dos impactos previstos.
+◦
+A transparência sobre a relação custo-benefício deve ser apresentada aos tomadores de decisão e à sociedade.
+•
+Dados e Indicadores: O uso de evidências e dados quantitativos é crucial para fundamentar a tomada de decisão e potencializar os resultados da formulação de políticas. Indicadores quantitativos permitem dimensionar o problema antes da política e podem ser monitorados durante a execução.
+◦
+Fontes de Dados:
+▪
+Nacionais: Ipeadata (macro, regional, social), Tesouro Transparente (finanças públicas, gastos sociais), Programa de Disseminação das Estatísticas do Trabalho (PDET - Rais, Caged).
+▪
+Plataformas de Dados: GovData (acesso a dados confidenciais com segurança), IpeaDATA-lab (integra registros administrativos para avaliação de políticas).
+▪
+Leis de Transparência: O Decreto nº 8.777/2016 institui a Política de Dados Abertos no Poder Executivo Federal, ampliando a transparência e publicidade além da Lei de Acesso à Informação (LAI).
+▪
+Internacionais: Organização para a Cooperação e Desenvolvimento Econômico (OCDE) e Banco Mundial são fontes recorrentes de indicadores e dados comparativos.
+◦
+A Lei nº 14.129/2021 estabelece que os dados de pessoas físicas e jurídicas podem ser disponibilizados para pesquisa acadêmica e monitoramento/avaliação de políticas públicas, desde que anonimizados. Também promove a transparência ativa (disponibilização de dados independentemente de solicitação).
+•
+Participação Social na Avaliação: Usuários têm direito a participar do acompanhamento e avaliação dos serviços públicos. Órgãos e entidades devem divulgar Cartas de Serviços ao Usuário, que informam sobre serviços e padrões de qualidade, incluindo como os usuários podem apresentar manifestações (reclamações, denúncias, sugestões). As ouvidorias recebem, analisam e respondem a essas manifestações, usando-as para identificar falhas e sugerir melhorias. Conselhos de usuários também participam da avaliação e propõem melhorias. A avaliação da satisfação do usuário deve ser realizada anualmente, e os resultados publicados para reorientar e ajustar os serviços.
+•
+Inovação na Avaliação: O Decreto nº 10.332/2020 prevê a produção de novos painéis gerenciais de avaliação e monitoramento e o catalogamento das principais bases de dados do governo.
+A avaliação, o monitoramento e o controle são elementos cruciais para que a ação estatal assuma de forma efetiva, eficaz e eficiente seu papel fundamental na alocação de recursos, na estabilidade e na redução das desigualdades sociais.
